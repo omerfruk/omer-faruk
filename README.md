@@ -4,9 +4,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omerfruk&show_icons=true&theme=merko)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfruk&layout=compact)
+
 <!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
