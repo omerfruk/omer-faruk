@@ -1,8 +1,10 @@
-### Hi there 👋
+## Selamın Aleyküm. Burda mı kalıyorsunuz ?
+
+### Kendine Bir Kahve Ismarlamaya Ne Dersin ? 
 
 ![](https://komarev.com/ghpvc/?username=your-github-omerfruk&color=green)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omerfruk&show_icons=true&theme=merko)
+![image](https://user-images.githubusercontent.com/58033045/191181565-6ba00466-ca65-4b37-aa0d-9f925dbed791.png)
 
 
 <!--
